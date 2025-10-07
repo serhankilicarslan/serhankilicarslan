@@ -137,3 +137,4 @@
 </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=serhankilicarslan&" alt="serhankilicarslan" /></p>
+![snake gif](https://github.com/serhankilicarslan/serhankilicarslan/blob/output/github-contribution-grid-snake.gif)
