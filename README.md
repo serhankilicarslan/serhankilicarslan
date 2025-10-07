@@ -5,9 +5,8 @@
 
 📫 How to reach me **<a href="https://serhankilicarslan.com/contact#github" target="blank">serhankilicarslan.com</a>**
 
-<div style="padding:0 100px">
 <table>
-  <tr>
+  <tr align="left">
     <th><b>☁️ Cloud Platforms</b></th>
     <th><b>💻 Programming Languages</b></th>
   </tr>
@@ -138,7 +137,6 @@
     </td>
   </tr>
 </table>
-</div>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/serhankilicarslan/serhankilicarslan/refs/heads/output/github-contribution-grid-snake-dart.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/serhankilicarslan/serhankilicarslan/refs/heads/output/github-contribution-grid-snake.svg" />
