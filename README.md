@@ -3,7 +3,7 @@
 
 - 💬 Ask me about **linux, dotnet, flutter, javascript, nginx, redis, rabbitmq**
 
-- 📫 How to reach me **serhankilicarslan@gmail.com**
+- 📫 How to reach me **<a href="https://serhankilicarslan.com/contact#github" target="blank">serhankilicarslan.com</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
