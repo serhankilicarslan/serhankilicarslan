@@ -136,5 +136,8 @@
   </a>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=serhankilicarslan&" alt="serhankilicarslan" /></p>
-![snake gif](https://github.com/serhankilicarslan/serhankilicarslan/blob/output/github-contribution-grid-snake.gif)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/serhankilicarslan/serhankilicarslan/refs/heads/output/github-contribution-grid-snake-dart.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/serhankilicarslan/serhankilicarslan/refs/heads/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution" src="https://raw.githubusercontent.com/serhankilicarslan/serhankilicarslan/refs/heads/output/github-contribution-grid-snake.svg" />
+</picture>
