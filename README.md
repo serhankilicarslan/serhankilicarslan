@@ -1,3 +1,5 @@
+<img width="2031" height="507" alt="serhan_kilicarslan" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTJuZjU4aGdnNTRhMTRlODlodnd6bXVoYjc3MW8zMzAwengyb3o2ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CzbiCJTYOzHTW/giphy.gif" />
+
 <h1 align="left">Hi, I'm Serhan Kılıçarslan 👊🏻</h1>
 <h3 align="left">A Software Architect from Turkey</h3>
 
@@ -5,7 +7,7 @@
 
 📫 How to reach me **<a href="https://serhankilicarslan.com/contact#github" target="blank">serhankilicarslan.com</a>**
 
-<table>
+<table width="2031">
   <tr align="left">
     <th><b>☁️ Cloud Platforms</b></th>
     <th><b>💻 Programming Languages</b></th>
@@ -134,6 +136,7 @@
     </td>
   </tr>
 </table>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=serhankilicarslan&label=Profile%20views&color=0e75b6&style=flat" alt="serhankilicarslan" /> </p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/serhankilicarslan/serhankilicarslan/refs/heads/output/github-contribution-grid-snake-dart.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/serhankilicarslan/serhankilicarslan/refs/heads/output/github-contribution-grid-snake.svg" />
