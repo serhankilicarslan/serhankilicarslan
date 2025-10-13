@@ -5,7 +5,7 @@
 
 💬 Ask me about **linux, dotnet, flutter, javascript, nginx, redis, rabbitmq**
 
-📫 How to reach me **<a href="https://serhankilicarslan.com/contact#github" target="blank">serhankilicarslan.com</a>**
+📫 How to reach me **<a href="https://serhankilicarslan.com/#contact" target="blank">serhankilicarslan.com</a>**
 
 <table width="2031">
   <tr align="left">
